@@ -1,0 +1,26 @@
+h1{
+  font-size:40px;
+  color:red;
+  font-family:'Roboto';
+  text-align:center;
+}
+.pic1{
+  height:360px;
+  width:100%;
+  object-fit:cover;  
+}
+h2{
+  text-align:center;
+}
+.mainP{  /* Not working */
+  text-align:auto;
+  
+}
+.maindiv{
+  max-width:720px;
+  margin:0 auto;
+}
+.contact{
+  text-align:center;
+}
+
